@@ -8,8 +8,8 @@ class Programmer {
 
         // Education
         String[] education = {
-            "SoftUni Java Fundamentals - Graduate: 6",
-            "SoftUni Java Advanced - Graduate: 6",
+            "SoftUni Java Fundamentals - Grade: 6",
+            "SoftUni Java Advanced - Grade: 6",
             "Current course: SoftUni Java Advanced"
         };
         int experienceInYears = 1;
