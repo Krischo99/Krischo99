@@ -19,13 +19,17 @@ class Programmer {
             "Java",
             "Spring Boot",
             "Swing",
+            "JavaFX",
             "Maven",
+            "Python",
+            "Tkinter",
+            "JavaScript",
             "HTTP Requests"
         };
 
         // Tools
         String[] tools = {
-            "IntelliJ IDEA"
+            "IntelliJ IDEA","VSCode"
         };
 
         // Future Goals
@@ -42,6 +46,8 @@ class Programmer {
             System.out.println("- " + edu);
         }
         System.out.println("Accumulation of knowledge and experience in years: " + experienceInYears);
+
+        // Formating all informaction
         System.out.println("Technical skills:");
         for (String skill : technicalSkills) {
             System.out.println("- " + skill);
