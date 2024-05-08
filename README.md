@@ -16,15 +16,8 @@ class Programmer {
 
         // Technical skills
         String[] technicalSkills = {
-            "Java",
-            "Spring Boot",
-            "Swing",
-            "JavaFX",
-            "Maven",
-            "Python",
-            "Tkinter",
-            "JavaScript",
-            "HTTP Requests"
+            "Java", "Spring Boot", "Swing", "JavaFX", "Maven",
+            "HTTP Requests", "Python", "Tkinter", "JavaScript"
         };
 
         // Tools
