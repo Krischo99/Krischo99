@@ -1,4 +1,4 @@
-class Programmer {
+public class Programmer {
 
     public static void main(String[] args){
         // Personal data
